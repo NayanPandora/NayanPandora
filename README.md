@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou Brayan
+- 👀 Interessado em aprender novas linguagens de programação
+- 🌱 Eu estou aprendendo programar a linguagem JavaScript e Scratch
+- 📫 meu email de contato é brayan.oliveira08@escola.pr.gov.br
